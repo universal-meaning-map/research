@@ -25,6 +25,7 @@
 - [The Sovereign Individual: How to Survive and Thrive During the Collapse of the Welfare State](https://www.amazon.com/Sovereign-Individual-Survive-Collapse-Welfare/dp/0684810077/), by James Dale Davidson & William Rees-Mogg. <sup>via Xavi</sup>
 - [The Stack: On Software and Sovereignty](https://mitpress.mit.edu/books/stack), by Benjamin H. Bratton. <sup>via [Andreu Belsunces](#andreu-belsunces)</sup>
 - [Transforming Technology: A Critical Theory Revisited](https://www.amazon.com/Transforming-Technology-Critical-Theory-Revisited/dp/0195146158), by Andrew Feenberg. <sup>via [Andreu Belsunces](#andreu-belsunces)</sup>
+- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/), by Shoshana Zuboff. <sup>[notes](#age-of-surveillance)</sup>
 
 ## <a id ="pdfs">PDFs</a>
 
@@ -140,3 +141,11 @@ The concept map is becoming a ubiquitous tool in education. In recent years ther
 Science writer James Gleick, author of The Information, contends that it wasn’t Shannon, but early 19th century mathematician Charles Babbage, who first called information the central component of all and everything. Babbage is credited for first conceptualizing the computer, way before anyone had the ability to even build one.
 
 **If the nature of reality is in fact reducible to information itself, that implies a conscious mind on the receiving end, to interpret and comprehend it.** Wheeler himself believed in a participatory universe, where consciousness holds a central role. 
+
+## <a id="age-of-surveillance">The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power</a>
+
+The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called “surveillance capitalism,” and the quest by powerful corporations to predict and control our behavior.
+
+Shoshana Zuboff’s interdisciplinary breadth and depth enable her to come to grips with the social, political, business, and technological meaning of the changes taking place in our time. We are at a critical juncture in the confrontation between the vast power of giant high-tech companies and government, the hidden economic logic of surveillance capitalism, and the propaganda of machine supremacy that threaten to shape and control human life. Will the brazen new methods of social engineering and behavior modification threaten individual autonomy and democratic rights and introduce extreme new forms of social inequality? Or will the promise of the digital age be one of individual empowerment and democratization?
+
+The Age of Surveillance Capitalism is neither a hand-wringing narrative of danger and decline nor a digital fairy tale. Rather, it offers a deeply reasoned and evocative examination of the contests over the next chapter of capitalism that will decide the meaning of information civilization in the twenty-first century. **The stark issue at hand is whether we will be the masters of information and machines or its slaves.**
