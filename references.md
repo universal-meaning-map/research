@@ -26,6 +26,7 @@
 - [The Stack: On Software and Sovereignty](https://mitpress.mit.edu/books/stack), by Benjamin H. Bratton. <sup>via [Andreu Belsunces](#andreu-belsunces)</sup>
 - [Transforming Technology: A Critical Theory Revisited](https://www.amazon.com/Transforming-Technology-Critical-Theory-Revisited/dp/0195146158), by Andrew Feenberg. <sup>via [Andreu Belsunces](#andreu-belsunces)</sup>
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/), by Shoshana Zuboff. <sup>[notes](#age-of-surveillance)</sup>
+- [Simulacra and Simulation](https://www.amazon.es/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211), by Jean Baudrillard. <sup>[notes](#simulacra)</sup>
 
 ## <a id ="pdfs">PDFs</a>
 
@@ -149,3 +150,19 @@ The challenges to humanity posed by the digital future, the first detailed exami
 Shoshana Zuboff’s interdisciplinary breadth and depth enable her to come to grips with the social, political, business, and technological meaning of the changes taking place in our time. We are at a critical juncture in the confrontation between the vast power of giant high-tech companies and government, the hidden economic logic of surveillance capitalism, and the propaganda of machine supremacy that threaten to shape and control human life. Will the brazen new methods of social engineering and behavior modification threaten individual autonomy and democratic rights and introduce extreme new forms of social inequality? Or will the promise of the digital age be one of individual empowerment and democratization?
 
 The Age of Surveillance Capitalism is neither a hand-wringing narrative of danger and decline nor a digital fairy tale. Rather, it offers a deeply reasoned and evocative examination of the contests over the next chapter of capitalism that will decide the meaning of information civilization in the twenty-first century. **The stark issue at hand is whether we will be the masters of information and machines or its slaves.**
+
+## <a id="simulacra">Simulacra and Simulation</a>
+
+It is commonly understood that media produces information, which we then assume is going to tell us something. However Baudrillard does not agree with this notion, he argues that actually there’s less and less meaning being derived out of the information being presented to us, ‘we live in a world where there is more and more information, and less and less meaning.’ (Baudrillard 1994: 79) Basically, in the postmodern era we are being provided with more and more information that actually means less and less.
+Throughout this work, Baudrillard presents us with three propositions to support his argument. Below I will attempt to outline the each one.
+
+1. The media doesn’t say anything: ‘meaning is lost and devoured faster that it can be re-injected.’ (Baudrillard 1994: 79)
+Just producing more and more information through different platforms of media, be it television, radio or advertising for example, will not, in Baudrillard’s eyes solve this issue as there is something fundamentally wrong, and this lies with the type of information that’s being produced.
+
+2. Information as an ordered sequence of symbols: ‘information has nothing to do with signification…it is an operational model.’ (Baudrillard 1994: 79)
+Language rules such as the sign, signifier and signified, created by Saussure suggest that information can be understood through the meanings that words have attached to them. However Shannon’s hypothesis goes against this, stating that language is simply an ordered sequence of symbols in which meaning should not be implicated. (Baudrillard 1994:79) In some ways it could be argued that this is true because each reader/viewer/listener of a piece of information will bring their own value meaning to the words being presented, however if those people were taken out of the equation, language would simply be a sequence of letters and sounds.
+
+3. Information destroys meaning: ‘information devours its own content.’ (Baudrillard 1994:80)
+Here we arrive at the third hypothesis, and the one Baudrillard most agrees with. Whilst being thought to ‘produc[e] an accelerated circulation of meaning,’ (Baudrillard 1994:80) media is in fact presented as a one way force, used by a capitalist state to keep society passive. Baudrillard argues that whilst we think we are taking part by watching television, or phoning in to a radio station, it is simply a ‘dream of communication.’ We are invited through to keep this up, with implication that if you don’t watch the latest television programme or keep up to date with the news for example, then you feel out of the loop; ‘socialisation is measured by the exposure to media messages.’ (Baudrillard 1994:80) However, this is a ‘myth’ and ‘we are all complications in this myth.’ (Baudrillard 1994:80) Here we can refer to Dick’s novel and Buster Friendly’s TV show because it’s an example of the one way process Baudrillard talks about, because there’s no real human interaction involved.
+
+([source](https://elizabethtimons.wordpress.com/simulacra-and-simulation-2/))

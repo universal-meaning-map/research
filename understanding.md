@@ -22,6 +22,10 @@ Marshall McLuhan famously said **"We shape our tools. And then our tools shape u
 
 "So I think the good news is that even though the world is extremely complex, what you need to do is very simple. I think it's about stopping this notion that you need to plan everything, you need to stock everything, and you need to be so prepared, and focus on being connected, always learning, fully aware, and super present." Joi Ito, [TED Talk](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist/) (11:33)
 
+## Meaning
+
+**“We live in a world where there is more and more information, and less and less meaning.”** Jean Baudrillard, Simulacra and Simulation.
+
 # <a id="wikipedia">Fragments from Wikipedia</a>
 
 ## <a id="language">[Language](https://en.wikipedia.org/wiki/Language)</a>
