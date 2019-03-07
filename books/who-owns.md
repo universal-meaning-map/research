@@ -1,0 +1,9 @@
+- title: [Who Owns the Future?](http://www.jaronlanier.com/futurewebresources.html)
+- author/s: Jaron Lanier
+- year: 2013
+
+---
+
+### [Jaron Lanier (Wikipedia)](https://en.wikipedia.org/wiki/Jaron_Lanier)
+
+In his book Who Owns the Future? (2013), Lanier posits that the middle class is increasingly disenfranchised from online economies. **By convincing users to give away valuable information about themselves in exchange for free services, firms can accrue large amounts of data at virtually no cost**. Lanier calls these firms “Siren Servers,” alluding to the Sirens of Ulysses. Instead of paying each individual for their contribution to the data pool, the Siren Servers concentrate wealth in the hands of the few who control the data centers. For example, he points to Google’s translation algorithm, which amalgamates previous translations uploaded by people online, giving the user its best guess. The people behind the source translations receive no payment for their work, while Google profits from increased ad visibility as a powerful Siren Server. In another example, Lanier points out that in 1988, Kodak employed 140,000 people when it led the digital imaging industry. By 2012, Kodak had filed for bankruptcy due to free photo-sharing sites such as Instagram which employed only 13 people at the time. As a solution to these problems, Lanier puts forth an alternative structure to the web based on Ted Nelson’s Project Xanadu. **He proposes a two-way linking system that would point to the source of any piece of information, creating an economy of micropayments that compensates people for original material they post to the web.**
