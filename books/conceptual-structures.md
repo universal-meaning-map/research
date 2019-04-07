@@ -1,6 +1,4 @@
-- title: [Conceptual structures: Information processing in mind and machine](https://www.amazon.com/Conceptual-Structures-Information-Processing-PROGRAMMING/dp/0201144727)
-- author/s: John F. Sowa
-- year: 1983
+[Conceptual structures: Information processing in mind and machine](https://www.amazon.com/Conceptual-Structures-Information-Processing-PROGRAMMING/dp/0201144727), John F. Sowa, 1983.
 
 ---
 

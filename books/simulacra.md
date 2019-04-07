@@ -1,10 +1,6 @@
-- title: [Simulacra and Simulation](https://www.amazon.es/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
-- author/s: Jean Baudrillard
-- year: 1981
+[Simulacra and Simulation](https://www.amazon.es/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211), Jean Baudrillard, 1981.
 
 ---
-
-## <a id="simulacra">Simulacra and Simulation</a>
 
 It is commonly understood that media produces information, which we then assume is going to tell us something. However Baudrillard does not agree with this notion, he argues that actually there’s less and less meaning being derived out of the information being presented to us, ‘we live in a world where there is more and more information, and less and less meaning.’ (Baudrillard 1994: 79) Basically, in the postmodern era we are being provided with more and more information that actually means less and less.
 Throughout this work, Baudrillard presents us with three propositions to support his argument. Below I will attempt to outline the each one.

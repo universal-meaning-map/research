@@ -1,6 +1,4 @@
-- title: [Learning How to Learn](https://www.cambridge.org/core/books/learning-how-to-learn/D4E082D454735D8CC7FEDADFA25A3B99#fndtn-information)
-- author/s: Novak, J.D. & Gowin, D.B.
-- year: 1984
+[Learning How to Learn](https://www.cambridge.org/core/books/learning-how-to-learn/D4E082D454735D8CC7FEDADFA25A3B99#fndtn-information), Novak, J.D. & Gowin, D.B., 1984.
 
 ---
 

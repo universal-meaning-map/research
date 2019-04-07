@@ -1,10 +1,8 @@
-- title: [The Information: A History, a Theory, a Flood](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
-- author/s: James Gleick
-- year: 2011
+[The Information: A History, a Theory, a Flood](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood), James Gleick, 2011.
 
 ---
 
-### [Bit By Bit, 'The Information' Reveals Everything](https://www.npr.org/2011/03/08/134366651/bit-by-bit-the-information-reveals-everything?t=1538749091390)
+[Bit By Bit, 'The Information' Reveals Everything](https://www.npr.org/2011/03/08/134366651/bit-by-bit-the-information-reveals-everything?t=1538749091390)
 
 - Information as the "fundamental core of things".
 - Gleick describes the bit as "the irreducible quantum of information”. 

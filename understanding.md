@@ -1,14 +1,19 @@
-# Understanding reality
+**Understanding reality**
 
-## Index of contents
+<!-- TOC -->
 
-- [Random encounters](#random)
-- [Fragments from Wikipedia](#wikipedia)
+- [Random encounters](#random-encounters)
+    - [Tools](#tools)
+    - [How](#how)
+    - [Meaning](#meaning)
+- [Fragments from Wikipedia](#fragments-from-wikipedia)
     - [Language](#language)
     - [Human communication](#human-communication)
 - [Glossary](#glossary)
 
-# <a id="random">Random encounters</a>
+<!-- /TOC -->
+
+# Random encounters
 
 Organized by topics.
 
@@ -18,6 +23,8 @@ Marshall McLuhan famously said **"We shape our tools. And then our tools shape u
 
 **"You want your tools to be used in ways that you didn't anticipate."** Joi Ito [7:27](https://youtu.be/gm6YeeYOJ38?t=447)
 
+"**Tools dictate how we behave.**" [link](https://onroadmap.com/why)
+
 ## How
 
 "So I think the good news is that even though the world is extremely complex, what you need to do is very simple. I think it's about stopping this notion that you need to plan everything, you need to stock everything, and you need to be so prepared, and focus on being connected, always learning, fully aware, and super present." Joi Ito, [TED Talk](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist/) (11:33)
@@ -26,9 +33,11 @@ Marshall McLuhan famously said **"We shape our tools. And then our tools shape u
 
 **“We live in a world where there is more and more information, and less and less meaning.”** Jean Baudrillard, Simulacra and Simulation.
 
-# <a id="wikipedia">Fragments from Wikipedia</a>
+# Fragments from Wikipedia
 
-## <a id="language">[Language](https://en.wikipedia.org/wiki/Language)</a>
+## Language
+
+🔗 [source](https://en.wikipedia.org/wiki/Language)
 
 Human language has the **properties of productivity and displacement**, and **relies entirely on social convention and learning**.
 
@@ -51,7 +60,9 @@ All languages **change** as speakers adopt or invent new ways of speaking and pa
 - Language is a tool for communication.
 - Language is a social fact. (extracted from [*social semiotics*](#social-semiotics))
 
-## <a id="human-communication">[Human communication](https://en.wikipedia.org/wiki/Human_communication)</a>
+## Human communication
+
+🔗 [source](https://en.wikipedia.org/wiki/Human_communication)
 
 Human communication, or anthroposemiotics, is the field dedicated to understanding how humans communicate. Human communication is grounded in cooperative and shared intentions.
 
@@ -63,32 +74,32 @@ The current study of human communication can be branched off into two major cate
 
 Aristotle stated that effective rhetoric is based on argumentation. [...] **[*rhetoric*](#rhetoric) involves a dominant party and a submissive party** or a party that succumbs to that of the most dominant party. While the rhetorical approach stems from Western societies, the relational approach stems from Eastern societies. Eastern societies hold higher standards for cooperation, which makes sense as to why they would sway more toward a relational approach for that matter. "**Maintaining valued relationships is generally seen as more important than exerting influence and control over others**".
 
-# <a id="glossary">Glossary</a>
+# Glossary
 
-###### <a id="semiotics">[Semiotics](https://en.wikipedia.org/wiki/Semiotics)</a>
+**[Semiotics](https://en.wikipedia.org/wiki/Semiotics)**
 
 Semiotics is the study of [*meaning-making*](#meaning-making), the study of sign process ([*semiosis*](#semiosis)) and **meaningful communication**.
 
-###### <a id="social-semiotics">[Social semiotics](https://en.wikipedia.org/wiki/Social_semiotics)</a> (also social semantics)
+**[Social semiotics](https://en.wikipedia.org/wiki/Social_semiotics)** (also social semantics)
 
 [...] tries to explain meaning-making as a social practice. [...] "codes" of language and communication are formed by social processes. [...] meanings and semiotic systems are shaped by relations of power, and that as power shifts in society, our languages and other systems of socially accepted meanings can and do change. [...] Social semiotics is thus **the study of the social dimensions of meaning**, and of **the power of human processes of signification and interpretation** (known as [*semiosis*](#semiosis)) **in shaping individuals and societies**.
 
-###### <a id="meaning-making">[Meaning-making](https://en.wikipedia.org/wiki/Meaning-making)</a>
+**[Meaning-making](https://en.wikipedia.org/wiki/Meaning-making)**
 
 In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
 
-###### <a id="semiosis">[Semiosis](https://en.wikipedia.org/wiki/Semiosis)</a>
+**[Semiosis](https://en.wikipedia.org/wiki/Semiosis)**
 
 Semiosis is any form of activity, conduct, or process that involves signs, including the **production of meaning**. Briefly – **semiosis is sign process**.
 
-###### <a id="semantics">[Semantics](https://en.wikipedia.org/wiki/Semantics)</a>
+**[Semantics](https://en.wikipedia.org/wiki/Semantics)**
 
 Semantics is the **linguistic and philosophical study of meaning**, in language, programming languages, formal logics, and semiotics. It is concerned with the relationship between signifiers—like words, phrases, signs, and symbols—and what they stand for, their denotation.
 
-###### <a id="pragmatics">[Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)</a>
+**[Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)**
 
 Pragmatics is a subfield of linguistics and semiotics that **studies the ways in which context contributes to meaning**. […] pragmatics explains how language users are able to overcome apparent ambiguity, since meaning relies on the manner, place, time, etc. of an utterance.
 
-###### <a id="rhetoric">[Rhetoric](https://en.wikipedia.org/wiki/Rhetoric)</a>
+**[Rhetoric](https://en.wikipedia.org/wiki/Rhetoric)**
 
 The **relationship between rhetoric and knowledge** is an old and interesting philosophical problem, partly because of our different assumptions on the nature of knowledge. But it is fairly clear that **while knowledge is primarily concerned with what is commonly known as "truth", rhetoric is primarily concerned with statements and their effects on the audience**. The word "rhetoric" may also refer to "empty speak", which reflects an indifference to truth, and in this sense rhetoric is adversarial to knowledge.

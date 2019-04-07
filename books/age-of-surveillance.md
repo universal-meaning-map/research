@@ -1,6 +1,4 @@
-- title: [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
-- author/s: Shoshana Zuboff
-- year: 2019
+[The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/), Shoshana Zuboff, 2019.
 
 ---
 

@@ -1,6 +1,4 @@
-- title: [Knowledge Representation: Logical, Philosophical, and Computational Foundations](https://www.amazon.com/Knowledge-Representation-Philosophical-Computational-Foundations/dp/0534949657/)
-- author/s: John F. Sowa
-- year: 2000
+[Knowledge Representation: Logical, Philosophical, and Computational Foundations](https://www.amazon.com/Knowledge-Representation-Philosophical-Computational-Foundations/dp/0534949657/), John F. Sowa, 2000.
 
 ---
 
