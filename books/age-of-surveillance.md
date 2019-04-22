@@ -1,9 +1,0 @@
-[The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/), Shoshana Zuboff, 2019.
-
----
-
-The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called “surveillance capitalism,” and the quest by powerful corporations to predict and control our behavior.
-
-Shoshana Zuboff’s interdisciplinary breadth and depth enable her to come to grips with the social, political, business, and technological meaning of the changes taking place in our time. We are at a critical juncture in the confrontation between the vast power of giant high-tech companies and government, the hidden economic logic of surveillance capitalism, and the propaganda of machine supremacy that threaten to shape and control human life. Will the brazen new methods of social engineering and behavior modification threaten individual autonomy and democratic rights and introduce extreme new forms of social inequality? Or will the promise of the digital age be one of individual empowerment and democratization?
-
-The Age of Surveillance Capitalism is neither a hand-wringing narrative of danger and decline nor a digital fairy tale. Rather, it offers a deeply reasoned and evocative examination of the contests over the next chapter of capitalism that will decide the meaning of information civilization in the twenty-first century. **The stark issue at hand is whether we will be the masters of information and machines or its slaves.**

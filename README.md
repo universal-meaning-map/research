@@ -8,4 +8,3 @@
 
 - [Collection of references](https://github.com/interplanetarymindmap/research/blob/master/references.md). Readings, videos, people and projects.
     - [Open issue](https://github.com/interplanetarymindmap/research/issues/1) to share and comment references.
-- [Understanding reality](https://github.com/interplanetarymindmap/research/blob/master/understanding.md). Random encounters and fragments from Wikipedia.
